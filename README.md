@@ -2,6 +2,9 @@
 
 Get user device as desktop | tablet | mobile
 
+## Installation:
+pip install streamlit-user-device
+
 ## Example:
 
 import streamlit as st  
